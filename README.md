@@ -20,13 +20,13 @@ Welcome to my Machine Learning repository! This repository contains a collection
 
 **3.Support_Vector_Machine/: Predicting Startup Profit based on R&D, Administration, and Marketing expenditures.**
 
-*50_Startups.csv            # Multi-feature Dataset
+* 50_Startups.csv            # Multi-feature Dataset
 
-*Model_Creation.ipynb       # Training & Hyper Parameter tuning
+* Model_Creation.ipynb       # Training & Hyper Parameter tuning
 
-*Profit_Model.sav           # Saved Pickle Model
+* Profit_Model.sav           # Saved Pickle Model
 
-*Deployment.ipynb           # Real-time Prediction
+* Deployment.ipynb           # Real-time Prediction
 
 **📊 2. Projects Overview**
 
