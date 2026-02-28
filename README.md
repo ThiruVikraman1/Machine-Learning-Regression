@@ -43,7 +43,7 @@ Evaluation: Achieved an R squared of 0.93. I use Adjusted R-squared to ensure ad
 
 **Project 3: Support Vector Regression (SVR)**
 
-Model Performance: Achieved 93% Accuracy, outperforming standard Multiple Linear Regression (87%).
+Model Performance: Achieved 93% Accuracy same as  Multiple Linear Regression (93%).
 
 Hyperparameter Tuning: Tuned the $C$ parameter to 0.01 to create a "Soft Margin," which reduced overfitting and allowed the model to focus on the global trend of the startup data.
 
