@@ -26,7 +26,7 @@ Welcome to my Machine Learning repository! This repository contains a collection
 * Deployment.ipynb           # Real-time Prediction
 
 
-**3.Support_Vector_Machine/: Predicting Startup Profit based on R&D, Administration, and Marketing expenditures.**
+**4.Decision_Tree/: Predicting Startup Profit based on R&D, Administration, and Marketing expenditures.**
 
 * 50_Startups.csv            # Multi-feature Dataset
 * Model_Creation.ipynb       # Data preprocessing, training and R-sqaure evaluation
